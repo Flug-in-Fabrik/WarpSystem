@@ -6,7 +6,9 @@
  * @author ["Securti"]
  * @version 0.1
  * @api 3.10.0
- * @description This plugin is made by Securti. :3
+ * @description 특별한 워프 시스템입니다.
+ * 해당 플러그인 (WarpSystem)은 Fabrik-EULA에 의해 보호됩니다
+ * Fabrik-EULA : https://github.com/Flug-in-Fabrik/Fabrik-EULA
  */
  
 namespace Securti\warpsystem;
